@@ -1,2 +1,2 @@
 # Hello- tout le monde
- je suis étudiante qui souhaiterait apprendre du code.
+ je suis une étudiante qui souhaiterait apprendre du code.
